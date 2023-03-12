@@ -24,7 +24,7 @@ A aplicação foi desenvolvida durante os cursos de ReactJS da Alura, nos quais 
 ---
 
 ## 🌐 Access the project
-https://ola-mundo-three-phi.vercel.app/
+https://organo-gamma-eight.vercel.app/
 
 ## ⚙️ Functionalities
 
